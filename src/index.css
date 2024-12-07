@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Importez les styles de Flowbite */
+/* @import 'flowbite-react/dist/flowbite.css'; */
